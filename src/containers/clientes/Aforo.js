@@ -95,10 +95,10 @@ function Aforo()
 
       <View style={{flexDirection: "column", alignItems: "center"}}>
         <SafeAreaView style={{ marginTop: 60, height: (height/2.7)}}>
-          <RNSpeedometer value={aforoClientes} size={width-50} labels={segmentacion} minValue={0} maxValue={1600}/>
+          <RNSpeedometer value={aforoClientes} size={width-50} labels={segmentacion} minValue={0} maxValue={2300}/>
         </SafeAreaView>
 
-        <Text style={{ fontSize: 65 }}>{Math.round((100 * aforoClientes) / 1600)}%</Text>
+        <Text style={{ fontSize: 65 }}>{Math.round((100 * aforoClientes) / 2300)}%</Text>
 
       </View>
 

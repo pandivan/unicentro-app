@@ -9,7 +9,7 @@
       "ios",
       "android"
     ],
-    "version": "5.0.0",
+    "version": "7.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -25,12 +25,12 @@
     ],
     "ios": {
       "bundleIdentifier": "com.ihc.unicentro",
-      "buildNumber": "5.0.0"
+      "buildNumber": "7.0.0"
     },
     "android": {
       "package": "com.ihc.unicentro",
-      "versionCode": 5
+      "versionCode": 7
     },
-    "description": "App Unicentro V5"
+    "description": "App Unicentro V7"
   }
 }

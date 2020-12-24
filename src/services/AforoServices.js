@@ -1,8 +1,8 @@
 import axios from "axios";
 
 
-// const BACKEND_URL = "https://unicentro-api-rest.herokuapp.com/api/aforo";
-const BACKEND_URL = "http://192.168.1.8:7788/api/aforo";
+const BACKEND_URL = "https://unicentro-api-rest.herokuapp.com/api/aforo";
+// const BACKEND_URL = "http://192.168.1.8:7788/api/aforo";
 
 
 
